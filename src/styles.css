@@ -1,0 +1,9 @@
+body {
+  background: #f0f2f5;
+}
+.signup-form {
+  max-width: 400px;
+}
+.signup-form-button {
+  width: 100%;
+}
